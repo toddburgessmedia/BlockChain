@@ -11,7 +11,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="newblock_main" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
-    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.8" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.bouncycastle:bcprov-jdk16:1.45" level="project" />
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>

@@ -18,6 +18,7 @@ dependencies {
 
     compile 'com.google.code.gson:gson:2.8.2'
     compile 'io.reactivex.rxjava2:rxjava:+'
+    compile group: 'org.bouncycastle', name: 'bcprov-jdk16', version: '1.45'
 }
 
 intellij {
